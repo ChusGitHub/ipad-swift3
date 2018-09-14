@@ -285,7 +285,7 @@
 				TargetAttributes = {
 					BB34ACE21A1615EE008E67ED = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 759473R775;
+						DevelopmentTeam = 573B294U2D;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -544,7 +544,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 759473R775;
+				DEVELOPMENT_TEAM = 573B294U2D;
 				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -562,7 +562,7 @@
 				"MTL_ENABLE_DEBUG_INFO[arch=*]" = YES;
 				OTHER_LIBTOOLFLAGS = "$(OTHER_LDFLAGS)";
 				PODS_ROOT = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.barkitos.LosBarkitosIpad;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barkitos.LosBarkitos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = LosBarkitosIpad/PuenteAFNetworking.h;
@@ -582,7 +582,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 759473R775;
+				DEVELOPMENT_TEAM = 573B294U2D;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -599,7 +599,7 @@
 				"MTL_ENABLE_DEBUG_INFO[arch=*]" = NO;
 				OTHER_LIBTOOLFLAGS = "$(OTHER_LDFLAGS)";
 				PODS_ROOT = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.barkitos.LosBarkitosIpad;
+				PRODUCT_BUNDLE_IDENTIFIER = com.barkitos.LosBarkitos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = LosBarkitosIpad/PuenteAFNetworking.h;
